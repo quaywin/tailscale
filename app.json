@@ -1,0 +1,7 @@
+{
+    "name": "Deploy tailscale",
+    "description": "Deploy tailscale",
+    "repository": "https://github.com/quaywin/tailscale",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["node", "express", "static"]
+  }
